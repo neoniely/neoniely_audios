@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es-ES" class="no-js">
+<head>
+	<meta charset="utf-8">
+	<title>Deezer</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta property="fb:app_id" content="241284008322">
+	<meta property="og:site_name" content="Deezer">
+	
+    
+	<link href="https://cdn-files.dzcdn.net/cache/images/common/favicon/favicon.5e8e3be4042b873a7358.ico" rel="shortcut icon" type="image/x-icon">
+<link href="https://cdn-files.dzcdn.net/cache/images/common/favicon/favicon-16x16.1e6ae1b5b7794f3e00c0.png" rel="icon" sizes="16x16" type="image/png">
+<link href="https://cdn-files.dzcdn.net/cache/images/common/favicon/favicon-32x32.ed120c279a693bed3a44.png" rel="icon" sizes="32x32" type="image/png">
+<link href="https://cdn-files.dzcdn.net/cache/images/common/favicon/favicon-72x72.52f8186cd0543de61a12.png" rel="icon" sizes="72x72" type="image/png">
+<link href="https://cdn-files.dzcdn.net/cache/images/common/favicon/favicon-144x144.07ae81558433f1009494.png" rel="icon" sizes="144x144" type="image/png">
+<link href="https://cdn-files.dzcdn.net/cache/images/common/favicon/favicon-240x240.bb3a6a29ad16a77f10cb.png" rel="icon" sizes="240x240" type="image/png">
+<link href="https://cdn-files.dzcdn.net/cache/images/common/favicon/apple-touch-icon.dc494e31ef5f888a087a.png" rel="apple-touch-icon" sizes="180x180">
+
+	
+	<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/npfkoakaabdallkcdbpkkhfilkkngakh">
+	<link rel="search" type="application/opensearchdescription+xml" href="https://cdn-files.dzcdn.net/xml/opensearch.xml" title="Deezer.com">
+	<link rel="alternate" hreflang="en" href="https://www.deezer.com/en/deprecated">
+<link rel="alternate" hreflang="fr" href="https://www.deezer.com/fr/deprecated">
+<link rel="alternate" hreflang="de" href="https://www.deezer.com/de/deprecated">
+<link rel="alternate" hreflang="es-ES" href="https://www.deezer.com/es/deprecated">
+<link rel="alternate" hreflang="it" href="https://www.deezer.com/it/deprecated">
+<link rel="alternate" hreflang="nl" href="https://www.deezer.com/nl/deprecated">
+<link rel="alternate" hreflang="pt" href="https://www.deezer.com/pt/deprecated">
+<link rel="alternate" hreflang="ru" href="https://www.deezer.com/ru/deprecated">
+<link rel="alternate" hreflang="pt-BR" href="https://www.deezer.com/br/deprecated">
+<link rel="alternate" hreflang="pl" href="https://www.deezer.com/pl/deprecated">
+<link rel="alternate" hreflang="tr" href="https://www.deezer.com/tr/deprecated">
+<link rel="alternate" hreflang="ro" href="https://www.deezer.com/ro/deprecated">
+<link rel="alternate" hreflang="hu" href="https://www.deezer.com/hu/deprecated">
+<link rel="alternate" hreflang="sr" href="https://www.deezer.com/sr/deprecated">
+<link rel="alternate" hreflang="ar" href="https://www.deezer.com/ar/deprecated">
+<link rel="alternate" hreflang="hr" href="https://www.deezer.com/hr/deprecated">
+<link rel="alternate" hreflang="es" href="https://www.deezer.com/mx/deprecated">
+<link rel="alternate" hreflang="cs" href="https://www.deezer.com/cs/deprecated">
+<link rel="alternate" hreflang="sk" href="https://www.deezer.com/sk/deprecated">
+<link rel="alternate" hreflang="sv" href="https://www.deezer.com/sv/deprecated">
+<link rel="alternate" hreflang="en-US" href="https://www.deezer.com/us/deprecated">
+<link rel="alternate" hreflang="ja-JP" href="https://www.deezer.com/ja/deprecated">
+<link rel="alternate" hreflang="bg" href="https://www.deezer.com/bg/deprecated">
+<link rel="alternate" hreflang="da" href="https://www.deezer.com/da/deprecated">
+<link rel="alternate" hreflang="fi" href="https://www.deezer.com/fi/deprecated">
+<link rel="alternate" hreflang="sl" href="https://www.deezer.com/sl/deprecated">
+<link rel="alternate" hreflang="uk" href="https://www.deezer.com/uk/deprecated">
+<link rel="alternate" hreflang="x-default" href="https://www.deezer.com/en/deprecated">
+
+	<!--[if gte IE 9]>
+	<meta name="application-name" content="Deezer">
+	<meta name="msapplication-tooltip" content="Iniciar la aplicación Deezer">
+	<meta name="msapplication-window" content="width=1600;height=1200">
+	<meta name="msapplication-starturl" content="http://www.deezer.com/es/">
+	<meta name="msapplication-navbutton-color" content="#202020">
+	<![endif]-->
+
+	<link rel="preconnect" href="https://cdn-assets.dzcdn.net" crossorigin>
+<link rel="preload" href="https://cdn-assets.dzcdn.net/common/fonts/deezer-product/DeezerProduct-Bold.12a16421bc0c1a0e11b324a8ba1f3035aae0ada2.woff2" as="font" crossorigin />
+<link rel="preload" href="https://cdn-assets.dzcdn.net/common/fonts/deezer-product/DeezerProduct-Extrabold.ff5d8428e4fe802f91d53a06857feb145b0a435d.woff2" as="font" crossorigin />
+<link rel="preload" href="https://cdn-assets.dzcdn.net/common/fonts/deezer-headline-vf/deezer-headline-vf.82069e47e17aab68fa931135773dd291e77557ec.woff2" as="font" crossorigin />
+<link href="https://cdn-files.dzcdn.net/cache/css/sass_c/bootstrap-tempo.10b761827801ed778931.css" rel="stylesheet" type="text/css">
+<link href="https://cdn-files.dzcdn.net/cache/css/sass_c/bootstrap.60d76a8bb1b49318cb53.css" rel="stylesheet" type="text/css">
+<link href="https://cdn-files.dzcdn.net/cache/css/sass_c/pages/deprecated_browser.43ea63a06529ce0ddd2c.css" rel="stylesheet" type="text/css">
+<link href="https://cdn-assets.dzcdn.net/common/css/deezer-product.css" rel="stylesheet" type="text/css">
+<link href="https://cdn-assets.dzcdn.net/common/css/deezer-headline-vf.css" rel="stylesheet" type="text/css">
+<link href="https://cdn-assets.dzcdn.net/common/css/inter.css" rel="stylesheet" type="text/css">
+	<script>
+if (window.self === window.top) {
+	document.domain = 'deezer.com';
+}
+</script>
+
+	
+		</head>
+<body class="error-body dir-ltr" data-theme="dark" data-themed="true">
+<div class="container">
+<div class="deprecated-page">
+	<div class="deprecated-header"><div class="deezer-logo"></div></div>
+	<div class="deprecated-right">
+		<h1 class="deprecated-title">Oops... it did it again</h1>
+		<h2 class="deprecated-subtitle">Lo sentimos. Deezer ya no es compatible con Internet Explorer 7.0.</h2>
+		<p class="deprecated-text">Cambia de navegador para escuchar música.</p>
+		<a href="https://support.deezer.com/hc/fr/articles/214025225-Fin-de-la-compatibilit%C3%A9-avec-Flash" class="deprecated-btn" target="_blank">Más información</a>
+	</div>
+	<div class="deprecated-left">
+		<img class="deprecated-image" src="https://cdn-files.dzcdn.net/cache/images/errors/Poptop.d872ff37d2480bff2030.jpg" srcset="https://cdn-files.dzcdn.net/cache/images/errors/Poptop@2x.79daeae01e4a30c25df4.jpg" />
+		<p class="deprecated-music">The Sound Of Silence</p>
+		<p class="deprecated-artist">Simon & Garfunkel</p>
+	</div>
+</div>
+</div>
+<script type="text/javascript"  src="/3NUjTJ/Dq/96/iNXJ/3g0V4yEZH6/EwDucNSOb7YrSrDY/OFIrR2o/LjEmCBY/adXIB"></script><link rel="stylesheet" type="text/css"  href="/3NUjTJ/Dq/96/iNXJ/3g0V4yEZH6/J0Du/TE8ZR2o/LHYSU0k/gRlFY"><script  src="/3NUjTJ/Dq/96/iNXJ/3g0V4yEZH6/J0Du/TE8ZR2o/IHVcBAg/DQAcq" async defer></script><div id="sec-overlay" style="display:none;"><div id="sec-container"></div></div></body>
